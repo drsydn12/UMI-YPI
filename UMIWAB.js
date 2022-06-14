@@ -1,5 +1,5 @@
 {
-	"version": "15.0",
+	"version": "16.0",
 	"download": "https://kbl.difarosyidin.xyz",
 	"update": [
 		{
