@@ -4,7 +4,7 @@
 	"update": [
 		{
 			"languaje": "in",
-			"changelog": "https://raw.githubusercontent.com/green404/UMI/main/changelog-B-in.html"
+			"changelog": "https://raw.githubusercontent.com/green404/UMI/main/clog.html"
 		}
 	]
 }
