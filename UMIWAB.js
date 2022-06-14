@@ -1,6 +1,6 @@
 {
 	"version": "16.0",
-	"download": "https://kbl.difarosyidin.xyz",
+	"download": "https://difarosyidin.com",
 	"update": [
 		{
 			"languaje": "in",
