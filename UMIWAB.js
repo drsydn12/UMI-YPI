@@ -1,6 +1,6 @@
 {
-	"version": "16.0",
-	"download": "https://cutt.ly/umiwab-v16",
+	"version": "16.5",
+	"download": "https://difarosyidin.com/",
 	"update": [
 		{
 			"languaje": "in",
