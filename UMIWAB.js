@@ -1,5 +1,5 @@
 {
-	"version": "16.5",
+	"version": "1",
 	"download": "https://difarosyidin.com/",
 	"update": [
 		{
