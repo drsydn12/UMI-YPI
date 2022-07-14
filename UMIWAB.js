@@ -1,6 +1,6 @@
 {
-	"version": "0.0.1",
-	"download": "https://difarosyidin.xyz/",
+	"version": "17.0",
+	"download": "https://difarosyidin.com/",
 	"update": [
 		{
 			"languaje": "in",
